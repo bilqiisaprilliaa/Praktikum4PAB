@@ -1,0 +1,34 @@
+Starting project at C:\Users\bilqi\design-in-rn
+Starting Metro Bundler
+Successfully ran `adb reverse`. Localhost URLs should work on the connected Android device.
+Using legacy dev server: false
+Started Metro Bundler
+Tunnel connected.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀ ▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀▄ ██ █   █ █
+█ █▄▄▄█ █▀  █▄█▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█▄ █▀▄▄▄▀▀█▄█▄▀▄ █▀█ ▀▄▄ ▄█
+█▀▀▀▄ ▀▄█▄ ▄█▀█▀▄  ▀▀   ▀██
+█▀▀▄▄█ ▄▄ █▀▄▀█▄▀▄▀▄ ▀▄ ▀██
+███▄▄▀▄▄███  ▄█▀▄ ▄███ ▀███
+█▄▄███▄▄▄ ▀ █▄▀▄▀ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀ ██▀██▀ █▄█ ▀▀▀██
+█ █   █ █▄ █▄ ▀▄█ ▄ ▄▄▀ ▀▀█
+█ █▄▄▄█ █▀▄█ ███▀██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄▄████▄██▄█▄▄▄▄▄▄█
+
+› Metro waiting on exp://10.217.22.41:19000
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press r │ reload app
+› Press m │ toggle menu
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Tunnel ready.
